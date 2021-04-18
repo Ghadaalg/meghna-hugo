@@ -11,6 +11,13 @@ portfolio:
     - front end web
     content: E-Commerce website development
     link: https://unico-streetwear.com/
+  - name: Interactive game
+    image: "/images/game.PNG"
+    image_webp: "/images/game.PNG"
+    categories:
+    - front end web
+    content: 'Game of Rock Paper Scissors '
+    link: https://github.com/Ghadaalg/javascript/tree/main/rock%20paper%20sicissors
   - name: Graphic Design
     image: "/images/gigis.PNG"
     image_webp: "/images/gigis.PNG"
@@ -19,13 +26,13 @@ portfolio:
     - front end web
     content: Creating graphics using Adobe Illustrator , Photoshop , and Canva.
     link: gigis-sa.com
-  - name: Photography
-    image: "/images/beauty.JPG"
-    image_webp: "/images/beauty.JPG"
+  - name: Graduation Project
+    image: "/images/gp.PNG"
+    image_webp: "/images/gp.PNG"
     categories:
-    - creative
-    content: Professional Photographer with years of experience.
-    link: https://www.instagram.com/ghadaalghanim/
+    - Apps
+    content: Android App made for my graduation project
+    link: ''
   - name: Creative direction
     image: "/images/fb.JPG"
     image_webp: "/images/fb.JPG"
@@ -55,17 +62,10 @@ portfolio:
     - front end web
     content: animation done using JS thats activated while scrolling
     link: https://github.com/Ghadaalg/javascript/tree/main/scroll
-  - name: Interactive game
-    image: "/images/game.PNG"
-    image_webp: "/images/game.PNG"
+  - name: Photography
+    image: "/images/beauty.JPG"
+    image_webp: "/images/beauty.JPG"
     categories:
-    - front end web
-    content: 'Game of Rock Paper Scissors '
-    link: https://github.com/Ghadaalg/javascript/tree/main/rock%20paper%20sicissors
-  - name: Graduation Project
-    image: "/images/gp.PNG"
-    image_webp: "/images/gp.PNG"
-    categories:
-    - Apps
-    content: Android App made for my graduation project
-    link: ''
+    - creative
+    content: Professional Photographer with years of experience.
+    link: https://www.instagram.com/ghadaalghanim/
