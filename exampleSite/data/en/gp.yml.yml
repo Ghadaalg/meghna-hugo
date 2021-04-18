@@ -1,0 +1,22 @@
+---
+feature:
+  enable: true
+  image: "/images/developer.JPG"
+  image_webp: "/images/developer.JPG"
+  title: I'm a Developer
+  content: Graduated with a bachelors in Computer Science with a love for development
+  feature_item:
+  - title: Front-end Web Development
+    icon: ti-desktop
+    content: Creating user-friendly front ends while delivering innovative features.
+  - title: Mobile Apps
+    icon: ti-tablet
+    content: 'Creating IOS and Android applications using Flutter '
+  - title: 'System '
+    icon: ti-cloud-down
+    content: Linux System Administration and Monitoring Systems
+  - title: Graphics
+    icon: ti-paint-bucket
+    content: 'Delivering full graphic concepts using Adobe Illustrator and Photoshop '
+title: gp.yml
+draft: true
