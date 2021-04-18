@@ -8,7 +8,7 @@ feature:
   feature_item:
   - title: Front-end Web Development
     icon: ti-desktop
-    content: Creating user-friendly front ends while delivering innovative features
+    content: Creating user-friendly front ends while delivering innovative features.
   - title: Mobile Apps
     icon: ti-tablet
     content: 'Creating IOS and Android applications using Flutter '
