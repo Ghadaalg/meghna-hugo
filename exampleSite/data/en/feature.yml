@@ -6,10 +6,9 @@ feature:
   title: I'm a Developer
   content: Graduated with a bachelors in Computer Science with a love for development
   feature_item:
-  - title: SEO Optimized
-    icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Front-end Web Development
+    icon: ti-desktop
+    content: Creating user-friendly front ends while delivering innovative features
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
