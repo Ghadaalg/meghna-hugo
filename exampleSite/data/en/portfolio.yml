@@ -27,29 +27,27 @@ portfolio:
     image: ''
     image_webp: ''
     categories:
-    - front-end
+    - Front end web
     content: Grocery list that enables user to add items to a list using React JS
     link: ''
   - name: Dark Mode
     image: ''
     image_webp: ''
-    categories:
-    - front-end
+    categories: []
     content: changing page appearance using JavaScript by providing day and night
       mode on a page
     link: ''
   - name: Animation
     image: ''
     image_webp: ''
-    categories:
-    - front-end
+    categories: []
     content: animation done using JS thats activated while scrolling
     link: ''
   - name: Interactive game
     image: ''
     image_webp: ''
     categories:
-    - front-end
+    - Front end web
     content: ''
     link: ''
   - name: Graduation Project
