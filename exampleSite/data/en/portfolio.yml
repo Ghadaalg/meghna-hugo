@@ -67,6 +67,5 @@ portfolio:
     image_webp: "/images/gp.PNG"
     categories:
     - Apps
-    - front-end
     content: Android App made for my graduation project
     link: ''
