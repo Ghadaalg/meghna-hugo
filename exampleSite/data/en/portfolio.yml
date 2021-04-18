@@ -15,6 +15,7 @@ portfolio:
     image_webp: "/images/gigis.PNG"
     categories:
     - creative
+    - Front end web
     content: Creating graphics using Adobe Illustrator , Photoshop , and Canva.
     link: gigis-sa.com
   - name: Photography
