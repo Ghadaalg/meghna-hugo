@@ -24,7 +24,7 @@ portfolio:
     image_webp: "/images/beauty.JPG"
     categories:
     - creative
-    content: Professional Photographer with years of experience
+    content: Professional Photographer with years of experience.
     link: https://www.instagram.com/ghadaalghanim/
   - name: Creative direction
     image: "/images/fb.JPG"
