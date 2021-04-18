@@ -7,7 +7,7 @@ skill:
   content: 'I can provide services from the start of an idea to creating a full project.
     I''m equipped with skill sets for development and i''m always eager to gain more
     ! '
-  image: images/about/company-growth.webp
+  image: ''
   skill_item:
   - name: Business Development
     percent: 90%
