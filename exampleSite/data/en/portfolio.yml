@@ -20,12 +20,12 @@ portfolio:
     content: Creating graphics using Adobe Illustrator , Photoshop , and Canva.
     link: gigis-sa.com
   - name: Photography
-    image: ''
-    image_webp: ''
+    image: "/images/beauty.JPG"
+    image_webp: "/images/beauty.JPG"
     categories:
     - creative
     content: Professional Photographer with years of experience
-    link: ''
+    link: https://www.instagram.com/ghadaalghanim/
   - name: Creative direction
     image: "/images/fb.JPG"
     image_webp: "/images/fb.JPG"
