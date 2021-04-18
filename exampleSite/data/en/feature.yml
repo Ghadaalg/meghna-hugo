@@ -12,10 +12,9 @@ feature:
   - title: Mobile Apps
     icon: ti-tablet
     content: 'Creating IOS and Android applications using Flutter '
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: 'System '
+    icon: ti-cloud-down
+    content: Linux System Administration and Monitoring Systems
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
