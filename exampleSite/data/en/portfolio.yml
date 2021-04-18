@@ -39,18 +39,20 @@ portfolio:
     content: Grocery list that enables user to add items to a list using React JS
     link: ''
   - name: Dark Mode
-    image: ''
-    image_webp: ''
-    categories: []
+    image: "/images/dark.PNG"
+    image_webp: "/images/dark.PNG"
+    categories:
+    - front-end
     content: changing page appearance using JavaScript by providing day and night
       mode on a page
-    link: ''
+    link: https://github.com/Ghadaalg/javascript/tree/main/dark%20mode
   - name: Animation
-    image: ''
-    image_webp: ''
-    categories: []
+    image: "/images/scroll.PNG"
+    image_webp: "/images/scroll.PNG"
+    categories:
+    - front-end
     content: animation done using JS thats activated while scrolling
-    link: ''
+    link: https://github.com/Ghadaalg/javascript/tree/main/scroll
   - name: Interactive game
     image: "/images/game.PNG"
     image_webp: "/images/game.PNG"
