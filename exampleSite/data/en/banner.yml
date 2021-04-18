@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: "/images/cs.jpg"
+  bg_image: "/images/cs.jpg"
   icon: ''
   title: Merging Creativity and Technology
   content: Finding the fine line between art and technology
