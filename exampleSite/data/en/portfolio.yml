@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: My Works
   portfolio_item:
+  - name: React JS
+    image: ''
+    image_webp: ''
+    categories:
+    - front-end
+    content: Grocery list that enables user to add items to a list using React JS
+    link: ''
   - name: Dark Mode
     image: ''
     image_webp: ''
