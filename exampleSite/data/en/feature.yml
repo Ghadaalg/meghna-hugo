@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: "/images/developer.JPG"
+  image_webp: "/images/developer.JPG"
   title: I'm a Developer
   content: Graduated with a bachelors in Computer Science with a love for development
   feature_item:
