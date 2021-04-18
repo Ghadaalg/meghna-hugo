@@ -3,6 +3,14 @@ portfolio:
   enable: true
   title: My Works
   portfolio_item:
+  - name: E-Commerce
+    image: "/images/unico.PNG"
+    image_webp: "/images/unico.PNG"
+    categories:
+    - front-end
+    - creative
+    content: E-Commerce website development
+    link: https://unico-streetwear.com/
   - name: Graphic Design
     image: ''
     image_webp: ''
