@@ -20,8 +20,7 @@ portfolio:
   - name: Creative direction
     image: ''
     image_webp: ''
-    categories:
-    - Creative
+    categories: []
     content: Creating concepts for projects
     link: ''
   - name: React JS
