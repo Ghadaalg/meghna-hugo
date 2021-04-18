@@ -12,12 +12,12 @@ portfolio:
     content: E-Commerce website development
     link: https://unico-streetwear.com/
   - name: Graphic Design
-    image: ''
-    image_webp: ''
+    image: "/images/gigis.PNG"
+    image_webp: "/images/gigis.PNG"
     categories:
     - creative
     content: Creating graphics using Adobe Illustrator , Photoshop , and Canva.
-    link: ''
+    link: gigis-sa.com
   - name: Photography
     image: ''
     image_webp: ''
