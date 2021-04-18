@@ -1,22 +1,15 @@
 ---
 feature:
   enable: true
-  image: "/images/developer.JPG"
-  image_webp: "/images/developer.JPG"
-  title: I'm a Developer
-  content: Graduated with a bachelors in Computer Science with a love for development
-  feature_item:
-  - title: Front-end Web Development
-    icon: ti-desktop
-    content: Creating user-friendly front ends while delivering innovative features.
-  - title: Mobile Apps
-    icon: ti-tablet
-    content: 'Creating IOS and Android applications using Flutter '
-  - title: 'System '
-    icon: ti-cloud-down
-    content: Linux System Administration and Monitoring Systems
-  - title: Graphics
-    icon: ti-paint-bucket
-    content: 'Delivering full graphic concepts using Adobe Illustrator and Photoshop '
+  image: "/images/gp.PNG"
+  image_webp: "/images/gp.PNG"
+  title: Graduation project
+  content: 'Developed a smart android application that used data mining technique
+    to create rule base using Weighted Associative Classifier. The application worked
+    to provide user risk predictions of their chance to get heart disease. The app
+    , Pulse , also provided connection with doctors and obtaining heart rates either
+    with smartwatches or back camera flash. Pulse also work to provide it users advice
+    on how to maintain healthy lifestyles. '
+  feature_item: []
 title: gp.yml
 draft: true
