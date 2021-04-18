@@ -3,7 +3,15 @@ portfolio:
   enable: true
   title: My Works
   portfolio_item:
-  - name: JavaScript
+  - name: Dark Mode
+    image: ''
+    image_webp: ''
+    categories:
+    - front-end
+    content: changing page appearance using JavaScript by providing day and night
+      mode on a page
+    link: ''
+  - name: Animation
     image: ''
     image_webp: ''
     categories:
