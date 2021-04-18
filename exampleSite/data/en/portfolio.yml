@@ -57,7 +57,7 @@ portfolio:
     image: "/images/game.PNG"
     image_webp: "/images/game.PNG"
     categories:
-    - Front end web
+    - front end web
     content: 'Game of Rock Paper Scissors '
     link: https://github.com/Ghadaalg/javascript/tree/main/rock%20paper%20sicissors
   - name: Graduation Project
