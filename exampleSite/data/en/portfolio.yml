@@ -26,9 +26,10 @@ portfolio:
     content: Professional Photographer with years of experience
     link: ''
   - name: Creative direction
-    image: ''
-    image_webp: ''
-    categories: []
+    image: "/images/fb.JPG"
+    image_webp: "/images/fb.JPG"
+    categories:
+    - creative
     content: Creating concepts for projects
     link: ''
   - name: React JS
