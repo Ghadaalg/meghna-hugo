@@ -8,7 +8,7 @@ themesDir = ""
 title = "Meghna"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Ghada AlGhanim"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -25,14 +25,6 @@ weight = 2
 name = "portfolio"
 url = "#portfolio"
 weight = 3
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
 [[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
