@@ -41,8 +41,7 @@ portfolio:
   - name: Dark Mode
     image: "/images/dark.PNG"
     image_webp: "/images/dark.PNG"
-    categories:
-    - front-end
+    categories: []
     content: changing page appearance using JavaScript by providing day and night
       mode on a page
     link: https://github.com/Ghadaalg/javascript/tree/main/dark%20mode
