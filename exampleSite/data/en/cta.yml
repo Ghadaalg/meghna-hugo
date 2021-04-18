@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: "/images/plain.PNG"
-  bg_image_webp: "/images/plain.PNG"
+  bg_image: "/images/plain2.jpg"
+  bg_image_webp: "/images/plain2.jpg"
   title: Great Design & Incredible Features
   content: Would love to start working with you on your projects !
   button:
