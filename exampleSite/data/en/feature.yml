@@ -9,10 +9,9 @@ feature:
   - title: Front-end Web Development
     icon: ti-desktop
     content: Creating user-friendly front ends while delivering innovative features
-  - title: Easy Customization
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Mobile Apps
+    icon: ti-tablet
+    content: 'Creating IOS and Android applications using Flutter '
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
