@@ -119,6 +119,9 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
+icon = "ti-github"
+link = "https://github.com/Ghadaalg"
+[[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/ghadaalghanim/"
 [[params.social]]
