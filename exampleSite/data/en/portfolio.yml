@@ -7,7 +7,6 @@ portfolio:
     image: "/images/unico.PNG"
     image_webp: "/images/unico.PNG"
     categories:
-    - front-end
     - creative
     content: E-Commerce website development
     link: https://unico-streetwear.com/
@@ -50,8 +49,7 @@ portfolio:
   - name: Animation
     image: "/images/scroll.PNG"
     image_webp: "/images/scroll.PNG"
-    categories:
-    - front-end
+    categories: []
     content: animation done using JS thats activated while scrolling
     link: https://github.com/Ghadaalg/javascript/tree/main/scroll
   - name: Interactive game
