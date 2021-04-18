@@ -3,6 +3,27 @@ portfolio:
   enable: true
   title: My Works
   portfolio_item:
+  - name: Graphic Design
+    image: ''
+    image_webp: ''
+    categories:
+    - creative
+    content: Creating graphics using Adobe Illustrator , Photoshop , and Canva.
+    link: ''
+  - name: Photography
+    image: ''
+    image_webp: ''
+    categories:
+    - creative
+    content: Professional Photographer with years of experience
+    link: ''
+  - name: Creative direction
+    image: ''
+    image_webp: ''
+    categories:
+    - Creative
+    content: Creating concepts for projects
+    link: ''
   - name: React JS
     image: ''
     image_webp: ''
