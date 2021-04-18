@@ -8,7 +8,7 @@ portfolio:
     image_webp: "/images/unico.PNG"
     categories:
     - creative
-    - " Front end web"
+    - front end web
     content: E-Commerce website development
     link: https://unico-streetwear.com/
   - name: Graphic Design
@@ -16,7 +16,7 @@ portfolio:
     image_webp: "/images/gigis.PNG"
     categories:
     - creative
-    - Front end web
+    - front end web
     content: Creating graphics using Adobe Illustrator , Photoshop , and Canva.
     link: gigis-sa.com
   - name: Photography
@@ -37,20 +37,22 @@ portfolio:
     image: ''
     image_webp: ''
     categories:
-    - Front end web
+    - front end web
     content: Grocery list that enables user to add items to a list using React JS
     link: ''
   - name: Dark Mode
     image: "/images/dark.PNG"
     image_webp: "/images/dark.PNG"
-    categories: []
+    categories:
+    - front end web
     content: changing page appearance using JavaScript by providing day and night
       mode on a page
     link: https://github.com/Ghadaalg/javascript/tree/main/dark%20mode
   - name: Animation
     image: "/images/scroll.PNG"
     image_webp: "/images/scroll.PNG"
-    categories: []
+    categories:
+    - front end web
     content: animation done using JS thats activated while scrolling
     link: https://github.com/Ghadaalg/javascript/tree/main/scroll
   - name: Interactive game
