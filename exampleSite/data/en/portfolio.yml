@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: My Works
   portfolio_item:
+  - name: JavaScript
+    image: ''
+    image_webp: ''
+    categories:
+    - front-end
+    content: animation done using JS thats activated while scrolling
+    link: ''
   - name: Interactive game
     image: ''
     image_webp: ''
