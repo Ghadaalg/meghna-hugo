@@ -10,10 +10,10 @@ service:
     icon: ti-layout
     content: ''
   - name: Dart
-    icon: ti-blackboard
+    icon: ti-mobile
     content: ''
   - name: CSS
-    icon: ti-palette
+    icon: ti-paint-bucket
     content: ''
   - name: Java
     icon: ti-package
