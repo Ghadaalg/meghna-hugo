@@ -14,3 +14,5 @@ We used Weighted Associative Classifier to conduct our prediction. We applied we
 The app also provided a section that gives health tips to our audience to help maintain a healthier lifestyle to keep their heart health stable.
 
 We used Android studios (Java) to develop our app and hosted our server on 00webhost. We created our database with MySQL. We collected a dataset from Keggle that has relevant information to apply our algorithm to.
+
+![](/images/poster-copy.jpg)
