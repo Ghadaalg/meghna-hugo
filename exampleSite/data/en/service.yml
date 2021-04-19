@@ -4,10 +4,10 @@ service:
   title: Programming
   service_item:
   - name: HTML
-    icon: ti-world
+    icon: ti-desktop
     content: ''
   - name: JavaScript
-    icon: ti-layout
+    icon: ti-tablet
     content: ''
   - name: Dart
     icon: ti-mobile
@@ -16,8 +16,8 @@ service:
     icon: ti-paint-bucket
     content: ''
   - name: Java
-    icon: ti-package
+    icon: ti-harddrive
     content: ''
   - name: Python
-    icon: ti-pulse
+    icon: ti-desktop
     content: ''
