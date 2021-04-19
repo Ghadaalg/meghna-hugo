@@ -77,8 +77,8 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Ghada AlGhanim"
+description = "Ghada AlGhanim's Portfolio"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
