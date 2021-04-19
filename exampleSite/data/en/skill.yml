@@ -9,13 +9,13 @@ skill:
     ! '
   image: ''
   skill_item:
-  - name: Business Development
-    percent: 90%
-  - name: Analysis
+  - name: Flutter
     percent: 70%
-  - name: Design
+  - name: Web
+    percent: 90%
+  - name: SQL
+    percent: 90%
+  - name: System Admin
     percent: 80%
-  - name: IOS Development
-    percent: 95%
-  - name: Android Development
-    percent: 75%
+  - name: Android studio
+    percent: 65%
