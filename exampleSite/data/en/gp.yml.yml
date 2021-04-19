@@ -10,6 +10,9 @@ feature:
     , Pulse , also provided connection with doctors and obtaining heart rates either
     with smartwatches or back camera flash. Pulse also work to provide it users advice
     on how to maintain healthy lifestyles. '
-  feature_item: []
+  feature_item:
+  - icon: ti-server
+    content: MySQL
+    title: Data base
 title: gp.yml
 draft: true
