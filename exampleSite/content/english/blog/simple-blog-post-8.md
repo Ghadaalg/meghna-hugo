@@ -1,18 +1,16 @@
 ---
-title: "Are You Doing the Right Way"
-date: 2018-09-12T14:51:12+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+title: My Graduation Project
+date: 2021-04-19T08:51:12+00:00
+image_webp: "/images/gp.PNG"
+image: "/images/gp.PNG"
+author: Ghada AlGhanim
+description: This is meta description
+
 ---
+To complete my studies fro my Bachelors in Computer Science at Princess Nourah University i presented my graduation project. As a group, we presented a smart application, Pulse , that worked as a heart disease prediction and analysis. We collected a dataset from Keggle that has relevant information to apply our algorithm to.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+We used Weighted Associative Classifier to conduct our prediction. We applied weighted attributes to all the requested inputs that have been calculated from our previous dataset to set each attributes importance for prediction. The app gives the users prediction reports on their chance of getting a heart disease. Addition to that the app also allowed users to monitor their heart rates either through their smartwatch or back camera flash. Users would get notified if any abnormalities occur. We've also established a way of communication between users and doctors to have easy access to them in case of any emergencies or concerns.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+The app also provided a section that gives health tips to our audience to help maintain a healthier lifestyle to keep their heart health stable.
 
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+We used Android studios (Java) to develop our app and hosted our server on 00webhost. We created our database with MySQL.
