@@ -17,5 +17,5 @@ skill:
     percent: 90%
   - name: System Admin
     percent: 80%
-  - name: Android studio
-    percent: 65%
+  - name: hugo
+    percent: 95%
