@@ -2,15 +2,15 @@
 skill:
   enable: true
   title: Skills
-  subtitle: I'm skilled in wide range of front end development and graphical design
-    tools
+  subtitle: I'm skilled in wide range of front end and back end development and graphical
+    design tools
   content: 'I can provide services from the start of an idea to creating a full project.
     I''m equipped with skill sets for development and i''m always eager to gain more
     ! '
   image: ''
   skill_item:
-  - name: Flutter
-    percent: 70%
+  - name: Cloud
+    percent: 90%
   - name: Web
     percent: 90%
   - name: SQL
