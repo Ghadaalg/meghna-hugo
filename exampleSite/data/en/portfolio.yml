@@ -4,8 +4,8 @@ portfolio:
   title: My Works
   portfolio_item:
   - name: E-Commerce
-    image: "/images/unico.PNG"
-    image_webp: "/images/unico.PNG"
+    image: "/images/gigis.PNG"
+    image_webp: "/images/gigis.PNG"
     categories:
     - creative
     - front end web
