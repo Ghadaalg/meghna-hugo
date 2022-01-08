@@ -15,6 +15,6 @@ feature:
   - title: 'System '
     icon: ti-cloud-down
     content: Linux System Administration and Monitoring Systems
-  - title: Graphics
-    icon: ti-paint-bucket
-    content: 'Delivering full graphic concepts using Adobe Illustrator and Photoshop '
+  - title: Back-end Development
+    icon: ti-server
+    content: Cloud certified
