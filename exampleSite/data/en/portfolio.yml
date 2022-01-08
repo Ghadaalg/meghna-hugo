@@ -4,8 +4,8 @@ portfolio:
   title: My Works
   portfolio_item:
   - name: VMware
-    image: ''
-    image_webp: ''
+    image: "/images/untitled-design-1.png"
+    image_webp: "/images/untitled-design-1.png"
     categories:
     - cloud
     content: ''
