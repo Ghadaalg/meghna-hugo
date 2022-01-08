@@ -11,11 +11,11 @@ skill:
   skill_item:
   - name: Cloud
     percent: 90%
+  - name: System Admin
+    percent: 85%
   - name: Web
     percent: 90%
   - name: SQL
     percent: 90%
-  - name: System Admin
-    percent: 80%
   - name: hugo
     percent: 95%
