@@ -6,7 +6,8 @@ portfolio:
   - name: VMware
     image: ''
     image_webp: ''
-    categories: ''
+    categories:
+    - cloud
     content: ''
     link: ''
   - name: E-Commerce
