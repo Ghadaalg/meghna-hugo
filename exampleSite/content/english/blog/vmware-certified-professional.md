@@ -7,4 +7,4 @@ image_webp = "/images/untitled-design-1.png"
 title = "VMware Certified Professional"
 
 +++
-hi
+At my 6 month training with STC Solution's Vmware Team I've achieved VCP certification
