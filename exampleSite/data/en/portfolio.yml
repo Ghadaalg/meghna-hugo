@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: My Works
   portfolio_item:
+  - name: VMware
+    image: ''
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
   - name: E-Commerce
     image: "/images/gigis.PNG"
     image_webp: "/images/gigis.PNG"
@@ -18,14 +24,6 @@ portfolio:
     - front end web
     content: 'Game of Rock Paper Scissors '
     link: https://github.com/Ghadaalg/javascript/tree/main/rock%20paper%20sicissors
-  - name: Graphic Design
-    image: "/images/gigis.PNG"
-    image_webp: "/images/gigis.PNG"
-    categories:
-    - creative
-    - front end web
-    content: Creating graphics using Adobe Illustrator , Photoshop , and Canva.
-    link: gigis-sa.com
   - name: Graduation Project
     image: "/images/gp.PNG"
     image_webp: "/images/gp.PNG"
